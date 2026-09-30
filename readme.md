@@ -1,4 +1,4 @@
-# Demystifying Android Application Security Bootcamp
+# Demystifying Android App Security Bootcamp
 
 <p align="center"> <img src="https://img.shields.io/badge/Android-Security-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Static-Analysis-0078D4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Dynamic-Analysis-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Frida-Dynamic%20Instrumentation-black?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/badge/JADX-APK%20Analysis-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/MobSF-Mobile%20Security-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/ADB-Android%20Debug%20Bridge-3DDC84?style=for-the-badge" /> <img src="https://img.shields.io/badge/OWASP-Mobile%20Security-000000?style=for-the-badge&logo=owasp" /> </p>
 
